@@ -1,9 +1,8 @@
 # Improving Underwater Visual Tracking With a Large Scale Dataset and Image Enhancement
 
-## Basit Alawode<sup>1</sup>, Sajid Javed, Fayaz Ali Dharejo, Mehnaz Ummar, Arif Mahmood, Naoufel Werghi, Senior
-Member, IEEE, Fahad Shahbaz Khan, Senior Member, IEEE, and Jiri Matas, CS Member, IEEE
+## Basit Alawode<sup>1</sup>, Sajid Javed<sup>1</sup>, Fayaz Ali Dharejo<sup>1</sup>, Mehnaz Ummar<sup>1</sup>, Arif Mahmood<sup>2</sup>, Naoufel Werghi<sup>1</sup>, Fahad Shahbaz Khan<sup>3</sup>, and Jiri Matas<sup>4</sup>.
 
-### B. Alawode, F. A. Dharejo, M. Ummar,, N. Werghi, and S. Javed are with the EECS Department, Khalifa University of Science and Technology, P.O Box: 127788, Abu Dhabi, UAE. (email: sajid.javed@ku.ac.ae).
-
-### F. S. Khan is with the computer vision department, MBZUAI, Abu Dhabi, UAE.
-### J. Matas is with Center for Machine Perception, Czech Technical University, Prague
+### <sup>1</sup>EECS Department, Khalifa University of Science and Technology, P.O Box: 127788, Abu Dhabi, UAE. (email: sajid.javed@ku.ac.ae).
+### <sup>2</sup>....
+### <sup>3</sup>Computer Vision Department, MBZUAI, Abu Dhabi, UAE.
+### <sup>4</sup>Center for Machine Perception, Czech Technical University, Prague.
