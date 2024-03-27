@@ -7,12 +7,12 @@ Basit Alawode<sup>1</sup>, Sajid Javed<sup>1</sup>, Fayaz Ali Dharejo<sup>1</sup
 <p align="center">
 <sup>2</sup>....
 </p>
-<h5 align="center">
+<p align="center">
 <sup>3</sup>Computer Vision Department, MBZUAI, Abu Dhabi, UAE.
-</h5>
-<h5 align="center">
+</p>
+<p align="center">
  <sup>4</sup>Center for Machine Perception, Czech Technical University, Prague.
-</h5>
+</p>
 
 # Abstract
 Despite its significance, underwater tracking has remained unexplored due to data inaccessibility. It poses distinct challenges; the underwater environment exhibits non-uniform lighting conditions, low visibility, lack of sharpness, low contrast, camouflage, and reflections from suspended particles. Performance of traditional tracking methods designed primarily for terrestrial or open-air scenarios drops in such conditions.
