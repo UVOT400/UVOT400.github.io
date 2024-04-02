@@ -6,7 +6,7 @@ Basit Alawode<sup>1</sup>, Sajid Javed<sup>1</sup>, Fayaz Ali Dharejo<sup>1</sup
 </h6>
 <h6 align="center" margin=0px padding=0px>
 <sup>2</sup>Computer Vision Department, MBZUAI, Abu Dhabi, UAE.
-</p>
+</h6>
 <h6 align="center">
  <sup>3</sup>Center for Machine Perception, Czech Technical University, Prague.
 </h6>
